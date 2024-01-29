@@ -1,27 +1,27 @@
 [
     {   
-        "image": "/src/assets/JFK.jpg",
+        "image": "/JFK.jpg",
         "title": "JFK",
         "description": "Página para la escuela secundaria EEST N5. Cuenta con un foro y una biblioteca de pdfs para los alumnos.",
         "images": [
             {
-                "src": "/src/assets/icons/HTML.svg",
+                "src": "/icons/HTML.svg",
                 "alt": "html icon"
             },
             {
-                "src": "/src/assets/icons/CSS.svg",
+                "src": "/icons/CSS.svg",
                 "alt": "css icon"
             },
             {
-                "src": "/src/assets/icons/JS.svg",
+                "src": "/icons/JS.svg",
                 "alt": "javascript icon"
             },
             {
-                "src": "/src/assets/icons/PHP.svg",
+                "src": "/icons/PHP.svg",
                 "alt": "php icon"
             },
             {
-                "src": "/src/assets/icons/SQL.svg",
+                "src": "/icons/SQL.svg",
                 "alt": "sql icon"
             }
         ],
@@ -33,28 +33,28 @@
         ]
     },
     {   
-        "image": "/src/assets/ARDUINO.jpg",
+        "image": "/ARDUINO.jpg",
         "title": "Arduino",
         "description": "Estación meteorológica capaz de leer temperatura, humedad y presión atmosférica. Desarrollada con Arduino.",
         "images": [
             {
-                "src": "/src/assets/icons/HTML.svg",
+                "src": "/icons/HTML.svg",
                 "alt": "html icon"
             },
             {
-                "src": "/src/assets/icons/CSS.svg",
+                "src": "/icons/CSS.svg",
                 "alt": "css icon"
             },
             {
-                "src": "/src/assets/icons/JS.svg",
+                "src": "/icons/JS.svg",
                 "alt": "javascript icon"
             },
             {
-                "src": "/src/assets/icons/ARDUINO.svg",
+                "src": "/icons/ARDUINO.svg",
                 "alt": "arduino icon"
             },
             {
-                "src": "/src/assets/icons/NODEJS.svg",
+                "src": "/icons/NODEJS.svg",
                 "alt": "nodejs icon"
             }
         ],
@@ -66,24 +66,24 @@
         ]
     },
     {   
-        "image": "/src/assets/POKEDEX.jpg",
+        "image": "/POKEDEX.jpg",
         "title": "JigglyQuery",
         "description": "Buscaodr de pokemons en tiempo real. A través de una interfaz limpia y fácil de usar.",
         "images": [
             {
-                "src": "/src/assets/icons/HTML.svg",
+                "src": "/icons/HTML.svg",
                 "alt": "html icon"
             },
             {
-                "src": "/src/assets/icons/CSS.svg",
+                "src": "/icons/CSS.svg",
                 "alt": "css icon"
             },
             {
-                "src": "/src/assets/icons/JS.svg",
+                "src": "/icons/JS.svg",
                 "alt": "javascript icon"
             },
             {
-                "src": "/src/assets/icons/VUE.svg",
+                "src": "/icons/VUE.svg",
                 "alt": "vue icon"
             }
         ],

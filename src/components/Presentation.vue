@@ -16,11 +16,7 @@ const toggleTheme = () => {
     <div class="toggle-theme">
       <button @click="toggleTheme">
         <img
-          :src="
-            props.isDark
-              ? './src/assets/icons/moon.svg'
-              : './src/assets/icons/sun.svg'
-          "
+          :src="props.isDark ? '/icons/moon.svg' : '/icons/sun.svg'"
           :alt="props.isDark ? 'moon' : 'sun'"
         />
       </button>
@@ -36,15 +32,15 @@ const toggleTheme = () => {
   <section class="subsection-buttons">
     <a href="https://github.com/Ulises-Saucedo/">
       Github
-      <img src="../assets/icons/github.svg" alt="github" />
+      <img src="/icons/github.svg" alt="github" />
     </a>
     <a
       >LinkedIn
-      <img src="../assets/icons/linkedin.svg" alt="github" />
+      <img src="/icons/linkedin.svg" alt="github" />
     </a>
     <a href="mailto:ulisesaucedo.se04@gmail.com"
       >ulisesaucedo.se04@gmail.com
-      <img src="../assets/icons/gmail.svg" alt="github" />
+      <img src="/icons/gmail.svg" alt="github" />
     </a>
   </section>
 </template>
