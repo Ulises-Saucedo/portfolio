@@ -1,0 +1,33 @@
+@import url('./fonts.css');
+
+:root {
+  --primary-dark: #4E6947;
+  --primary: #5B874F;
+  --primary-2: #6D9E5F;
+  --primary-3: #8DC57D;
+  --primary-gradient: linear-gradient(to right, #5B874F, #545F6D);
+  --secondary-dark: #46494E;
+  --secondary: #545F6D;
+  --secondary-2: #67788E;
+  --secondary-3: #748BA9;
+  --secondary-4: #8FADD2;
+  --dark-100: rgba(48, 52, 46, 1);
+  --dark-75: rgba(48, 52, 46, .75);
+  --dark-50: rgba(48, 52, 46, .5);
+  --dark-25: rgba(48, 52, 46, .25);
+  --dark-10: rgba(48, 52, 46, .1);
+  --text-base: 18px;
+  --text-h1: 68.66px;
+  --text-h2: 54.93px;
+  --text-h3: 43.95px;
+  --text-h4: 35.16px;
+  --text-h5: 28.13px;
+  --text-h6: 22.5px;
+  --text-small: 14.4px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

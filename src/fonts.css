@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Clash Display Semibold';
+    src: url('./assets/fonts/CLASHDISPLAY-SEMIBOLD.OTF');
+}
+
+@font-face {
+    font-family: 'Clash display Light';
+    src: url('./assets/fonts/CLASHDISPLAY-EXTRALIGHT.OTF');
+}
+
+@font-face {
+    font-family: 'Satoshi Regular';
+    src: url('./assets/fonts/SATOSHI-REGULAR.OTF');
+}
