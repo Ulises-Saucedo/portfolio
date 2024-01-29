@@ -22,7 +22,7 @@ const toggleTheme = () => {
       </button>
     </div>
     <h3 class="main-subtitle">Hey 👋, soy Ulises</h3>
-    <h1 class="main-title">Desarrollador frontend</h1>
+    <h1 class="main-title">Desarrollador trainee</h1>
     <p class="main-description">
       En 2023 me egresé de una escuela secundaria técnica, la cual en las
       prácticas profesionalizantes me dio la posibilidad de desarrollar tanto
