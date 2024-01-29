@@ -40,7 +40,7 @@ const toggleDark = useToggle(isDark);
 }
 @media screen and (max-width: 1400px) {
   .main-section {
-    margin: 96px 0;
+    margin: 96px auto;
     max-width: 800px;
   }
 }
