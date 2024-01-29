@@ -31,8 +31,7 @@ const toggleDark = useToggle(isDark);
   background: #ccd5ae;
 }
 .main-section {
-  margin: 0px auto;
-  padding: 256px 0;
+  margin: 256px auto;
   display: flex;
   flex-direction: column;
   padding: 16px;
@@ -41,7 +40,7 @@ const toggleDark = useToggle(isDark);
 }
 @media screen and (max-width: 1400px) {
   .main-section {
-    padding: 96px 0;
+    margin: 96px 0;
     max-width: 800px;
   }
 }
