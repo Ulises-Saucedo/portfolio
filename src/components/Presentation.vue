@@ -34,7 +34,7 @@ const toggleTheme = () => {
       Github
       <img src="/icons/github.svg" alt="github" />
     </a>
-    <a
+    <a href="https://www.linkedin.com/in/ulises-saucedo-2b93902b2/"
       >LinkedIn
       <img src="/icons/linkedin.svg" alt="github" />
     </a>
