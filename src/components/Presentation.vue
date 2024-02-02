@@ -30,15 +30,15 @@ const toggleTheme = () => {
     </p>
   </section>
   <section class="subsection-buttons">
-    <a href="https://github.com/Ulises-Saucedo/">
+    <a href="https://github.com/Ulises-Saucedo/" target="_blank">
       Github
       <img src="/icons/github.svg" alt="github" />
     </a>
-    <a href="https://www.linkedin.com/in/ulises-saucedo-2b93902b2/"
+    <a href="https://www.linkedin.com/in/ulises-saucedo/" target="_blank"
       >LinkedIn
       <img src="/icons/linkedin.svg" alt="github" />
     </a>
-    <a href="mailto:ulisesaucedo.se04@gmail.com"
+    <a href="mailto:ulisesaucedo.se04@gmail.com" target="_blank"
       >ulisesaucedo.se04@gmail.com
       <img src="/icons/gmail.svg" alt="github" />
     </a>
