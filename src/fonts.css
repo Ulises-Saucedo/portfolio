@@ -1,14 +1,29 @@
 @font-face {
-    font-family: 'Clash Display Semibold';
-    src: url('./assets/fonts/CLASHDISPLAY-SEMIBOLD.OTF');
+  font-family: "Aurora";
+  src: url("./assets/fonts/Aurora.otf");
 }
 
 @font-face {
-    font-family: 'Clash display Light';
-    src: url('./assets/fonts/CLASHDISPLAY-EXTRALIGHT.OTF');
+  font-family: "Author-light";
+  src: url("./assets/fonts/Author-Light.otf");
 }
 
 @font-face {
-    font-family: 'Satoshi Regular';
-    src: url('./assets/fonts/SATOSHI-REGULAR.OTF');
+  font-family: "Author-regular";
+  src: url("./assets/fonts/Author-Regular.otf");
+}
+
+@font-face {
+  font-family: "ClashDisplay-light";
+  src: url("./assets/fonts/ClashDisplay-Light.otf");
+}
+
+@font-face {
+  font-family: "ClashDisplay-medium";
+  src: url("./assets/fonts/ClashDisplay-Medium.otf");
+}
+
+@font-face {
+  font-family: "ClashDisplay-semibold";
+  src: url("./assets/fonts/ClashDisplay-Semibold.otf");
 }
