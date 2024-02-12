@@ -21,10 +21,23 @@ const socialMedia = [
 ];
 
 const isDark = inject("isDark");
+const emits = defineEmits(["toggleTheme"]);
+
+const toggleTheme = () => {
+  emits("toggleTheme");
+};
 </script>
 
 <template>
   <section class="mx-auto my-24 max-w-[800px] p-4">
+    <div class="py-1 flex w-full justify-end">
+      <button @click="toggleTheme">
+        <img
+          :src="isDark ? './moon.svg' : './sun.svg'"
+          :alt="isDark ? './moon.svg' : './sun.svg'"
+        />
+      </button>
+    </div>
     <h3
       class="font-clashDisplayLight text-h3 text-[#2F3037]"
       :class="{ 'text-[#fff]': isDark }"
