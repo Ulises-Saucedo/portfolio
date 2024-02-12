@@ -1,29 +1,29 @@
 @font-face {
-  font-family: "Aurora";
+  font-family: "aurora";
   src: url("./assets/fonts/Aurora.otf");
 }
 
 @font-face {
-  font-family: "Author-light";
+  font-family: "author-light";
   src: url("./assets/fonts/Author-Light.otf");
 }
 
 @font-face {
-  font-family: "Author-regular";
+  font-family: "author-regular";
   src: url("./assets/fonts/Author-Regular.otf");
 }
 
 @font-face {
-  font-family: "ClashDisplay-light";
+  font-family: "clash-display-light";
   src: url("./assets/fonts/ClashDisplay-Light.otf");
 }
 
 @font-face {
-  font-family: "ClashDisplay-medium";
+  font-family: "clash-display-medium";
   src: url("./assets/fonts/ClashDisplay-Medium.otf");
 }
 
 @font-face {
-  font-family: "ClashDisplay-semibold";
+  font-family: "clash-display-semibold";
   src: url("./assets/fonts/ClashDisplay-Semibold.otf");
 }
